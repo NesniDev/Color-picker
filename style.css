@@ -1,0 +1,22 @@
+body {
+    background-color: blanchedalmond;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+
+.container{
+    text-transform: uppercase;
+    margin: auto;
+    font-size: 35px;
+    margin-top: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card{
+    background-color: #563d7c;
+}
+.lead{
+    font-weight: bold;
+}
